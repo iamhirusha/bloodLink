@@ -87,7 +87,7 @@ public class Main extends JFrame {
         add.setFont(new Font("Tahoma", Font.BOLD, 20));
         add.setLayout(null);
 
-        JLabel lblAddInformation = new JLabel("Add Information");
+        JLabel lblAddInformation = new JLabel("Register a new donor");
         lblAddInformation.setHorizontalAlignment(SwingConstants.CENTER);
         lblAddInformation.setFont(new Font("Tahoma", Font.BOLD, 25));
         lblAddInformation.setBounds(12, 13, 878, 42);
